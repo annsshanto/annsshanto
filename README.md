@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="200px" width="200px">
 
 <!--
 **annsshanto/annsshanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
